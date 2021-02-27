@@ -1,3 +1,3 @@
 # Expense-tracker-application
 
-![image](image/example.png)
+![image](image/Screenshot(21).png)
